@@ -1,4 +1,8 @@
 /referral/node_modules
+/referral/package-lock.json
 /zc_transfer_lambda/node_modules
+/zc_transfer_lambda/package-lock.json
 /mapping-user-zc-balance/node_modules
 /mapping-user-zc-balance/index.zip
+/mapping-user-zc-balance/package-lock.json
+
